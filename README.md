@@ -3,13 +3,13 @@
 This is the repo for the song recommender project for the Data Analytics bootcamp at IronHack. 
 Content applied: 
 
-HTML & Web Scraping
-BeautifulSoup
-Multi-page scraping
-APIS & Requests
-Spotify API
-Clustering: K-Means, DBScan, GaussianMixtures, Agglomerative clustering and more
-Web framework/application
+- HTML & Web Scraping
+- BeautifulSoup
+- Multi-page scraping
+- APIS & Requests
+- Spotify API
+- Clustering: K-Means, DBScan, GaussianMixtures, Agglomerative clustering and more
+- Web framework/application
 
 
 The case study: 
@@ -46,8 +46,7 @@ On Friday, you will present your work to me and Marek, the CEO and founder. Full
 Be open minded about this process: we are agile, and that means that we define our products and features on-the-go, while exploring the tools and the data that's available to us. We'd love you to provide your own vision of the product and the next steps to be taken.
 
 Lots of luck and strength for this first week with us!
-
-Jane
+- Jane 
 --------------------------------------------------------------------------------------------------------------------------
 
 
