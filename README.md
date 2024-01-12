@@ -1,4 +1,4 @@
-# song_recommender
+# Song recommender project 
 
 This is the repo for the song recommender project for the Data Analytics bootcamp at IronHack. 
 Content applied: 
